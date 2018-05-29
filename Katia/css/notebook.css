@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@media (max-width: 1199px){
+.navbar .navbar-collapse {
+	margin-bottom: 0;
+	padding-bottom:0;
+	margin-left:-15px;
+	margin-top: -20px;
+	width:160px;
+}
+.navbar .navbar-nav > .active > a {
+	padding-bottom: 0px;
+}
+.row-slider{
+height: auto;
+}
+
+}
+
+
